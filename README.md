@@ -1,0 +1,2 @@
+# SEVENVFOUR
+Fitness app for iOS for building and tracking your own workouts (If you're reading this, this app is still a work in progress) Features include: Save data persistently with CoreData Track calories burned after each workout View Youtube tutorials for each exercise in a WebKit page Personalized user profile  The current project is still under development, and the current stage is mainly for testing the logic process and testing the integrity of the interface. If you encounter problems during the test, please contact us
